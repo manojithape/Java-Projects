@@ -24,7 +24,7 @@ public class Practice {
 		ArrayList_practice Array=new ArrayList_practice();
 		
 		Array.Array();
-		
+		System.out.println("Manoj");
 	}
 
 }
